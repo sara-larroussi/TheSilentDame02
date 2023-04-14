@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSilentDame02 
-- 👀 I’m interested in Data Science,Machine Learning,AI
-- 🌱 I’m currently learning Git and GitHub
+- 👀 I’m interested in backend-dev
+- 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
